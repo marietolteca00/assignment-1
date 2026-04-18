@@ -16,19 +16,19 @@ Explain whether each scenario is a **classification or regression** problem, and
 
 > **Your Answer:**
 
-- Regression, inference, n=200- observations, and p=5 predictors
+- Regression, inference, n=200- observations, and p=4 predictors
 
 **(b)** A conservation agency wants to know whether a proposed habitat corridor will successfully support wildlife movement or fail to do so. They collect data on 30 previously established corridors. For each corridor they have recorded whether wildlife movement was successful or unsuccessful, corridor width, length, surrounding land use type, and eight other variables.
 
 > **Your Answer:**
 
-- Classification, prediction, n=30 obs. , and p= 12 predictors
+- Classification, prediction, n=30 obs. , and p= 11 predictors
 
 **(c)** We are interested in predicting weekly average ground-level ozone concentration in a coastal city. We collect weekly data for all of 2019. For each week we record average ozone concentration, sea surface temperature, wind speed, solar radiation, and atmospheric
 
 > **Your Answer:**
 
-- Regression, prediction, n= 52 weekly data obs. , p= 5
+- Regression, prediction, n= 52 weekly data obs. , p= 4
 
 ### Exercise 2 (ISLP exercise 5)
 
